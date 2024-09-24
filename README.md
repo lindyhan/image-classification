@@ -1,3 +1,13 @@
+Model used: Squeezenet
+https://github.com/onnx/models/tree/main/validated/vision/classification/squeezenet
+
+Not super accurate, but it made my day!
+Also, credit to: Claude (anthropic) and Matheus Pagani (my Web3 AI teacher) from Venture Miner (https://www.ventureminer.com/home)
+
+https://github.com/user-attachments/assets/e9afb097-5613-482a-93e4-44e90161f650
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
